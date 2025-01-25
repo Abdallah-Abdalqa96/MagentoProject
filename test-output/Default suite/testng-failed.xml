@@ -8,6 +8,7 @@
           <include name="signin"/>
           <include name="subscribe"/>
           <include name="addRandomItems"/>
+          <include name="signup"/>
           <include name="setup"/>
         </methods>
       </class> <!-- Magento -->
